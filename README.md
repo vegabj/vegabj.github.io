@@ -1,6 +1,7 @@
 # Projects
 
 ## [Masters - Classification of combined microRNA](https://github.com/vegabj/Mastersproject)
+Methods for combining miRNA datasets for classification such that internal biases is minimized.
 - [thesis link](https://github.com/vegabj/vegabj.github.io/raw/master/NTNU_Masters_Thesis.pdf)
 
 
