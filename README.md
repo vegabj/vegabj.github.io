@@ -5,4 +5,4 @@
 
 
 ## [Bachelor's project - VegAR](https://github.com/IT2901-Gruppe-16-Kantega)
-A Augmented Reality prototype and a mobile application for viewing objects from the Norwegian Public Roads Administration's (NO: Statens Vegvesen) National Road Database (NVDB).
+An augmented reality prototype and a multiplatform mobile application for viewing objects from the Norwegian Public Roads Administration's (NO: Statens Vegvesen) National Road Database (NVDB).
