@@ -18,7 +18,10 @@ Testing out nbdev.
 ## [Demo streamlit](https://github.com/vegabj/streamlit-demo)
 Demonstration of streamlit.
 
-# Courses (to be added)
+# Courses (TODO)
 ## Uncertainty in machine learning
+Dropout, Bayesian neural networks, tensorflow probability, aleatoric & epistemic uncertainty
 ## Intro to machine learning
+6 day course for customer.
 ## Machine learning for developers
+3 hour intro do machine learning for developers
