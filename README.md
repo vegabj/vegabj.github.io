@@ -19,9 +19,9 @@ Testing out nbdev.
 Demonstration of streamlit.
 
 # Courses (TODO)
+
 ## Uncertainty in machine learning
 Dropout, Bayesian neural networks, tensorflow probability, aleatoric & epistemic uncertainty
-## Intro to machine learning
-6 day course for customer.
+
 ## Machine learning for developers
 3 hour intro do machine learning in practice for developers
