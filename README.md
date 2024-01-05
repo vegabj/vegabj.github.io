@@ -18,6 +18,9 @@ Testing out nbdev.
 ## [Demo streamlit](https://github.com/vegabj/streamlit-demo)
 Demonstration of streamlit.
 
+## [Demo develop vscode extension](https://github.com/vegabj/ExtensionDemo)
+Demo for developing your own vscode extension.
+
 # Courses
 
 ## Uncertainty in machine learning
